@@ -3,7 +3,6 @@
 A repo for testing deploy flutter web app
 
 - [flutter\_web\_deploy](#flutter_web_deploy)
-  - [](#)
   - [Deployment](#deployment)
     - [Test for flutter app Link](#test-for-flutter-app-link)
   - [Steps:](#steps)
@@ -12,10 +11,6 @@ A repo for testing deploy flutter web app
     - [Test Release Locally](#test-release-locally)
     - [Push and Deploy](#push-and-deploy)
   - [Problem](#problem)
-
----
-
-##
 
 ---
 
@@ -88,6 +83,8 @@ flutter build web
 
 ### Test Release Locally
 
+- official ref:
+  - [Build and release a web app](https://docs.flutter.dev/deployment/web#deploying-to-the-web)
 - navigate to the `/build/web`
 - Launch a web server
 
