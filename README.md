@@ -11,6 +11,9 @@ A repo for testing deploy flutter web app
     - [Test Release Locally](#test-release-locally)
     - [Push and Deploy](#push-and-deploy)
   - [Problem](#problem)
+  - [Renders](#renders)
+    - [`html` Renderer](#html-renderer)
+    - [`canvaskit` Renderer](#canvaskit-renderer)
 
 ---
 
@@ -120,8 +123,43 @@ localhost:8000
 
 - Some widgets cannot render as expected.
 - Possible reasons:
+  - renderers: no
   - some widgets are not capable for html
-  - try different renderer
+
+## Renders
+
+- Renders:
+
+  - `html`: default, use the `HTML` renderer
+  - `canvaskit`: use the `CanvasKit` renderer
+
+- ref: https://docs.flutter.dev/platform-integration/web/renderers
+
+---
+
+### `html` Renderer
+
+- Build release
+
+```sh
+flutter build web --web-renderer html
+```
+
+- Test result:
+  - not work
+
+---
+
+### `canvaskit` Renderer
+
+- Build release
+
+```sh
+flutter build web --web-renderer canvaskit
+```
+
+- Test result:
+  - not work
 
 ---
 
