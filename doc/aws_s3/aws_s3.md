@@ -32,4 +32,13 @@ flutter build web
 
 ---
 
+## Test for Capstone
+
+- Url:
+  - http://humber-capstone-webhosting.s3-website.ca-central-1.amazonaws.com/
+
+![pic](./pic/s303.png)
+
+---
+
 [TOP](#deployment---aws-s3)
