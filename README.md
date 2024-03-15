@@ -15,7 +15,7 @@ A repo for testing deploy flutter web app
 | **GitHub Page**     | Work      | [GitHub Page](https://simonangel-fong.github.io/chowpati/)                         | [GitHub](./doc/github_page/github_page.md)            | No   |
 | Azure Storage       | Not Work  | [Azure](https://capstonewebhosting.z14.web.core.windows.net/)                      | [Azure Storage](./doc/azure_storage/azure_storage.md) |      |
 | AWS S3 Static Web   | Not Work  | [AWS S3](http://humber-capstone-webhosting.s3-website.ca-central-1.amazonaws.com/) | [AWS S3](./doc/aws_s3/aws_s3.md)                      |      |
-| **AWS Amplify**     | Work      | [AWS Amplify](https://dev-page.dbunn4jlo11r2.amplifyapp.com/)                      | [AWS S3](./doc/aws_amplify/aws_amplify.md)            | ??  |
+| **AWS Amplify**     | Work      | [AWS Amplify](https://dev-page.dbunn4jlo11r2.amplifyapp.com/)                      | [AWS Amplify](./doc/aws_amplify/aws_amplify.md)            | ??  |
 | _Azure App Service_ | _Ongoing_ |                                                                                    |                                                       |      |
 
 ---

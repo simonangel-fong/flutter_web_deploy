@@ -5,7 +5,6 @@
 - [Deployment - AWS Amplify](#deployment---aws-amplify)
   - [AWS Amplify](#aws-amplify)
     - [Test for Capstone](#test-for-capstone)
-    - [Test for CICD](#test-for-cicd)
 
 ---
 
@@ -46,10 +45,11 @@
 
 ---
 
+<!--
 ### Test for CICD
 
 ![amplify](./pic/amplify07.png)
 
----
+--- -->
 
 [TOP](#deployment---aws-amplify)
