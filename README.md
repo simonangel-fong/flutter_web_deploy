@@ -11,13 +11,22 @@ A repo for testing deploy flutter web app
 
 ## Deployment
 
-| Deployment Solution | Result   | Url                                                                                | Document                                                        | CICD |
-| ------------------- | -------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---- |
-| **GitHub Page**     | Work     | [GitHub Page](https://simonangel-fong.github.io/chowpati/)                         | [GitHub](./doc/github_page/github_page.md)                      | No   |
-| Azure Storage       | Not Work | [Azure](https://capstonewebhosting.z14.web.core.windows.net/)                      | [Azure Storage](./doc/azure_storage/azure_storage.md)           |      |
-| AWS S3 Static Web   | Not Work | [AWS S3](http://humber-capstone-webhosting.s3-website.ca-central-1.amazonaws.com/) | [AWS S3](./doc/aws_s3/aws_s3.md)                                |      |
-| **AWS Amplify**     | Work     | [AWS Amplify](https://dev-page.dbunn4jlo11r2.amplifyapp.com/)                      | [AWS Amplify](./doc/aws_amplify/aws_amplify.md)                 | ??   |
-| Azure App Service   |          |                                                                                    | [Azure App Service](./doc/azure_appservice/azure_appservice.md) |      |
+- Test
+
+| Deployment Solution   | Result   | Url                                                                                | Document                                                        | CICD |
+| --------------------- | -------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---- |
+| Azure Storage         | Not Work | [Azure](https://capstonewebhosting.z14.web.core.windows.net/)                      | [Azure Storage](./doc/azure_storage/azure_storage.md)           |      |
+| AWS S3 Static Web     | Not Work | [AWS S3](http://humber-capstone-webhosting.s3-website.ca-central-1.amazonaws.com/) | [AWS S3](./doc/aws_s3/aws_s3.md)                                |      |
+| **GitHub Page**       | Work     | [GitHub Page](https://simonangel-fong.github.io/chowpati/)                         | [GitHub](./doc/github_page/github_page.md)                      | No   |
+| **AWS Amplify**       | Work     | [AWS Amplify](https://master.d4xxdvavu47mx.amplifyapp.com/)                        | [AWS Amplify](./doc/aws_amplify/aws_amplify.md)                 |      |
+| **Azure App Service** | Work     | [Azure App Service](https://flutter-deploy-test.azurewebsites.net/)                | [Azure App Service](./doc/azure_appservice/azure_appservice.md) |      |
+
+- Capstone
+
+| Deployment            | Url                                             |
+| --------------------- | ----------------------------------------------- |
+| **AWS Amplify**       | https://dev-page.d3ad0k626g19q6.amplifyapp.com/ |
+| **Azure App Service** | https://chowpati.azurewebsites.net/             |
 
 ---
 
