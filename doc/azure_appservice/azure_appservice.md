@@ -6,6 +6,8 @@
   - [Create and Develope Flutter Web App](#create-and-develope-flutter-web-app)
   - [Add `Node.js` configuration files](#add-nodejs-configuration-files)
   - [Create an Azure App Services](#create-an-azure-app-services)
+  - [Connect GitHub](#connect-github)
+  - [Test on Capstone](#test-on-capstone)
 
 ---
 
@@ -163,6 +165,22 @@ function onListening() {
 ![azure](./pic/azure03.png)
 ![azure](./pic/azure04.png)
 ![azure](./pic/azure05.png)
+
+---
+
+## Connect GitHub
+
 ![azure](./pic/azure06.png)
+
 ![azure](./pic/azure07.png)
 ![azure](./pic/azure08.png)
+![azure](./pic/azure09.png)
+![azure](./pic/azure10.png)
+
+---
+
+## Test on Capstone
+
+---
+
+[TOP](#flutter-web-deployment---azure)
