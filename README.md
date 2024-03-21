@@ -23,10 +23,10 @@ A repo for testing deploy flutter web app
 
 - Capstone
 
-| Deployment            | Url                                             |
-| --------------------- | ----------------------------------------------- |
-| **AWS Amplify**       | https://dev-page.d3ad0k626g19q6.amplifyapp.com/ |
-| **Azure App Service** | https://chowpati.azurewebsites.net/             |
+| Deployment            | Url                                        |
+| --------------------- | ------------------------------------------ |
+| **AWS Amplify**       | https://main.dvwimgszv3k4w.amplifyapp.com/ |
+| **Azure App Service** | https://chowpati-dev.azurewebsites.net/    |
 
 ---
 
