@@ -26,7 +26,7 @@ A repo for testing deploy flutter web app
 | Deployment            | Url                                        |
 | --------------------- | ------------------------------------------ |
 | **AWS Amplify**       | https://main.dvwimgszv3k4w.amplifyapp.com/ |
-| **Azure App Service** | https://chowpati-dev.azurewebsites.net/    |
+| **Azure App Service** | https://chowpati.azurewebsites.net/    |
 
 ---
 
